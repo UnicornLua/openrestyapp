@@ -1,4 +1,5 @@
 *temp/
 logs/*.log
+logs/*.pid
 cert/
 image/
